@@ -52,8 +52,11 @@ dependencies:
   firebase_core: ^2.31.0
   shared_preferences: ^2.2.3
   provider: ^6.0.3
+  video_player: ^2.7.2
+  youtube_player_flutter: ^9.0.1
 
 dev_dependencies:
+  analyzer: ^6.4.1
   build_runner: any
   riverpod_generator: ^2.4.0
   flutter_test:
